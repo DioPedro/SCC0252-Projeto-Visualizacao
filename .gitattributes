@@ -1,0 +1,5 @@
+etl_ filter=lfs diff=lfs merge=lfs -text
+etl_data filter=lfs diff=lfs merge=lfs -text
+etl_data/city.csv filter=lfs diff=lfs merge=lfs -text
+etl_data/region.csv filter=lfs diff=lfs merge=lfs -text
+etl_data/state.csv filter=lfs diff=lfs merge=lfs -text
