@@ -6,3 +6,5 @@ etl_data/state.csv filter=lfs diff=lfs merge=lfs -text
 city.csv filter=lfs diff=lfs merge=lfs -text
 region.csv filter=lfs diff=lfs merge=lfs -text
 state.csv filter=lfs diff=lfs merge=lfs -text
+etl_notebook.ipynb filter=lfs diff=lfs merge=lfs -text
+viz_notebook.ipynb filter=lfs diff=lfs merge=lfs -text
